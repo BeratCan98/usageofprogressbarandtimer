@@ -1,0 +1,16 @@
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.exe
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.deps.json
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.runtimeconfig.json
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.runtimeconfig.dev.json
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.dll
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\bin\Debug\netcoreapp3.1\Lesson4.pdb
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.Form1.resources
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.csproj.GenerateResource.cache
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.AssemblyInfoInputs.cache
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.AssemblyInfo.cs
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.dll
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.pdb
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.genruntimeconfig.cache
+C:\Users\can.duman\source\repos\UdemyLessons\Lesson4\obj\Debug\netcoreapp3.1\Lesson4.csproj.AssemblyReference.cache
